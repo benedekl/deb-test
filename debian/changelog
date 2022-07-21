@@ -1,0 +1,5 @@
+deb-test (0.0.1-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #00000)
+
+ -- Asd Qwe <asd-qwe@debian.org>  Thu, 21 Jul 2022 00:00:00 +0200

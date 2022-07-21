@@ -1,0 +1,13 @@
+Source: deb-test
+Section: misc
+Priority: optional
+Maintainer: Asd Qwe <asd-qwe@debian.org>
+Build-Depends: debhelper (>=10)
+Standards-Version: 4.0.0
+Homepage: https://github.com/deb-test
+
+Package: deb-test
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: deb-test description
+ example package
